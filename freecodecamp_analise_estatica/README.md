@@ -55,13 +55,3 @@ Com base nos problemas identificados, o plano de refatoração detalha as açõe
 
 - **Eliminar Más Práticas**: Modularizar variáveis globais, encapsular dados e corrigir funções extensas que ultrapassam 200 linhas.
 
-## Código Refatorado
-
-O código refatorado está disponível em [link do seu repositório refatorado].
-
-## Apresentação
-
-- **Descrição**: Slides ou vídeo com até 10 minutos, contendo:
-   - Breve descrição do projeto e contexto.
-   - Explicação das ferramentas utilizadas e das métricas analisadas.
-   - Principais problemas e soluções aplicadas, com resultados das melhorias implementadas.
